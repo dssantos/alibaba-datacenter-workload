@@ -2,4 +2,4 @@
 .ipynb_checkpoints/
 machine_usage.tar.gz
 machines/
-*.csv
+machine_usage.csv
